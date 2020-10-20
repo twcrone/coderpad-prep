@@ -6,6 +6,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        JUnitCore.main("Solution");
+        System.out.println(new App().getGreeting());
     }
 }
