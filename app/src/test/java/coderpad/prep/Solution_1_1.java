@@ -48,8 +48,4 @@ public class Solution_1_1 {
     }
     return true;
   }
-
-  public static void main(String[] args) {
-    JUnitCore.main("Solution");
-  }
 }
